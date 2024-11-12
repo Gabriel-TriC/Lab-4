@@ -1,0 +1,28 @@
+1. In the provided method, insertionSort, add an implementation for insertion sort.
+✔
+
+2. In the provided method, bubbleSort(), add an implementation for bubble sort.
+✔
+
+3. Measure the time it takes for insertionSort() and bubbleSort() to run and sort the values populated in integersList.
+Output how long it takes to run.
+✔
+
+
+Questions:
+
+1. If you were implementing a sort algorithm for a new language, which sort would you use?
+
+I would probably use insertion sort.
+
+2. Was there a difference in the time it took for bubble and insertion sort to run?
+Does this make sense given the time complexities for these sorting algorithms?
+
+There was a big difference in the time it took for bubble and insertion sort to run, bubble sort taking around 10x longer
+than insertion. To me this makes sense, although the time complexities for both are the same, bubble sort does more work 
+than the insertion sort. Bubble goes through the list multiple times as it compares each 2 highlighted values as it moves 
+down the list.
+
+3. Which sort algorithm has an easier implemenation (in terms of understanding) to you?
+
+I'd say that the insertion sort has easier implementation and it was a bit easier to understand for me.
